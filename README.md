@@ -38,7 +38,10 @@ $ print("Hello, Python!")
 * This will display *Hello, Python!* in command prompt or terminal
 
 
-
-
+### How to initate a python cli
+* Go to your command prompt or terminal then type *python* and it will initate the python cli like below
+>Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32 Type "help", "copyright", "credits" or "license" for more information.
+* Now you can write simple print statement *>>> print("Hello, Python!")* and hit enter.
+* This will display same result as basic_python.py file. 
 
 
